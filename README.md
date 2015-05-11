@@ -11,6 +11,11 @@ In an *n*-dimensional real vector space with a fixed Cartesian coordinate system
 	<br>
 </div>
 
+<div class="equation" align="center" data-raw-text="d(\mathbf{x},\mathbf{y})=\sum_{i=0}^{n-1} |x_i - y_i |" data-equation=“eq:manhattan_distance”>
+	<img src="https://cdn.rawgit.com/compute-io/manhattan-distance/5610254d71a1ed646a35eb58c0ac717dbf5fc59a/docs/img/eqn.svg" alt="Manhattan distance formula">
+	<br>
+</div>
+
 ## Installation
 
 ``` bash
