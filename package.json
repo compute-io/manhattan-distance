@@ -1,6 +1,6 @@
 {
   "name": "compute-manhattan-distance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Computes the Manhattan (city block) distance between two arrays.",
   "author": {
     "name": "Athan Reines",
