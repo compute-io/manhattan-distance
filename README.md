@@ -6,7 +6,7 @@ Manhattan Distance
 
 In an *n*-dimensional real vector space with a fixed Cartesian coordinate system, two points can be connected by a straight line. The sum of the line's projections onto the coordinate axes is the [Manhattan distance](http://en.wikipedia.org/wiki/Taxicab_geometry) (also known as the rectilinear distance, *L1* distance, taxicab distance, or city block distance).
 
-<div class="equation" align="center" data-raw-text="d(\mathbf{x},\mathbf{y})=\sum_{i=0}^{n-1} |x_i - y_i |" data-equation="eq:manhattan_distance">
+<div class="equation" align="center" data-raw-text="d(\mathbf{x},\mathbf{y}) = \sum_{i=0}^{n-1} |x_i - y_i|" data-equation="eq:manhattan_distance">
 	<img src="https://cdn.rawgit.com/compute-io/manhattan-distance/5610254d71a1ed646a35eb58c0ac717dbf5fc59a/docs/img/eqn.svg" alt="Manhattan distance formula">
 	<br>
 </div>
